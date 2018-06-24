@@ -7,3 +7,7 @@ Use the left arrow to go back!
 
 Enter your name:
 Enter your Password: 
+
+Enter DOB:
+Enter Gender:
+
