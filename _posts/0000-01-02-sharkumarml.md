@@ -11,3 +11,5 @@ Enter your Password:
 Enter DOB:
 Enter Gender:
 
+Enter Address:
+Enter Mob:
